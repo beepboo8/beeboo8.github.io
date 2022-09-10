@@ -32,12 +32,12 @@ h3{
 
 #orgs {
   background: white;
-  border: solid;
-  border-color: #be59e3;
+  border: dotted;
+  border-color: #2096df;
   text-align: center;
   font-size: 18px;
   margin-bottom: 2em;
-  margin-top: 1em;
+  margin-top: 2em;
   padding: 1em;
 }
 
